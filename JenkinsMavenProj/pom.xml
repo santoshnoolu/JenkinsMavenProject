@@ -25,7 +25,7 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>6.8.5</version>
-    <scope>test</scope>
+    <scope>compile</scope>
 </dependency>
  </dependencies>
  <build>
@@ -46,7 +46,7 @@
                 <configuration>
                  
         <suiteXmlFiles>
-        <suiteXmlFile>C:\Users\chinnu\workspace\TestMavenProject\testng.xml</suiteXmlFile>
+        <suiteXmlFile>C:\Users\chinnu\git\JenkinsMavenProject\JenkinsMavenProj\testng.xml</suiteXmlFile>
         </suiteXmlFiles>
         </configuration>
         </plugin>

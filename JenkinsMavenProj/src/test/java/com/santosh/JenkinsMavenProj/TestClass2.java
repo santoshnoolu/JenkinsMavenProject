@@ -9,7 +9,6 @@ public class TestClass2 {
 		System.out.println("B");
 		System.out.println("B2");
 		System.out.println("B3");
-
 		System.out.println("B4");
 		System.out.println("Hello");
 	}
