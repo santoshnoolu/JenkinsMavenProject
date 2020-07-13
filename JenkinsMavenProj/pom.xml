@@ -46,7 +46,7 @@
                 <configuration>
                  
         <suiteXmlFiles>
-        <suiteXmlFile>C:\Users\chinnu\git\JenkinsMavenProject\JenkinsMavenProj\testng.xml</suiteXmlFile>
+        <suiteXmlFile>${xmlFiles}</suiteXmlFile>
         </suiteXmlFiles>
         </configuration>
         </plugin>
