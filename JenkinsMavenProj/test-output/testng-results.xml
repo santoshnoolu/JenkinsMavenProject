@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21734" started-at="2020-10-10T08:55:42Z" finished-at="2020-10-10T08:56:04Z">
+  <suite name="Default suite" duration-ms="56859" started-at="2020-12-02T11:02:26Z" finished-at="2020-12-02T11:03:23Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21734" started-at="2020-10-10T08:55:42Z" finished-at="2020-10-10T08:56:04Z">
+    <test name="Default test" duration-ms="56859" started-at="2020-12-02T11:02:26Z" finished-at="2020-12-02T11:03:23Z">
       <class name="com.santosh.JenkinsMavenProj.TestClass4">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="setup" is-config="true" duration-ms="6561" started-at="2020-10-10T14:25:42Z" finished-at="2020-10-10T14:25:49Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="setup" is-config="true" duration-ms="32166" started-at="2020-12-02T16:32:26Z" finished-at="2020-12-02T16:32:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test41()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="test41" duration-ms="4220" started-at="2020-10-10T14:25:49Z" finished-at="2020-10-10T14:25:53Z">
+        <test-method status="PASS" signature="test41()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="test41" duration-ms="9177" started-at="2020-12-02T16:32:58Z" finished-at="2020-12-02T16:33:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test41 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="tearDown" is-config="true" duration-ms="759" started-at="2020-10-10T14:25:53Z" finished-at="2020-10-10T14:25:54Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="tearDown" is-config="true" duration-ms="1026" started-at="2020-12-02T16:33:07Z" finished-at="2020-12-02T16:33:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="setup" is-config="true" duration-ms="3693" started-at="2020-10-10T14:25:54Z" finished-at="2020-10-10T14:25:58Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="setup" is-config="true" duration-ms="3376" started-at="2020-12-02T16:33:08Z" finished-at="2020-12-02T16:33:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test42()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="test42" duration-ms="5691" started-at="2020-10-10T14:25:58Z" finished-at="2020-10-10T14:26:03Z">
+        <test-method status="PASS" signature="test42()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="test42" duration-ms="10222" started-at="2020-12-02T16:33:12Z" finished-at="2020-12-02T16:33:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test42 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="tearDown" is-config="true" duration-ms="785" started-at="2020-10-10T14:26:03Z" finished-at="2020-10-10T14:26:04Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.santosh.JenkinsMavenProj.TestClass4@49fd9b]" name="tearDown" is-config="true" duration-ms="858" started-at="2020-12-02T16:33:22Z" finished-at="2020-12-02T16:33:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
